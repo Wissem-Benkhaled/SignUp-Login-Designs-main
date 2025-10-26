@@ -21,10 +21,3 @@ This repository contains stylish and customizable login and signup form designs 
 3. Copy the HTML and CSS code into your project's files, or integrate them directly into your web pages.
 4. Customize the forms as needed to match your website's design and functionality requirements.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or would like to add additional form designs, please fork this repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
