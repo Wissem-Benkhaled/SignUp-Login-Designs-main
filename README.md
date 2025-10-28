@@ -21,3 +21,15 @@ This repository contains stylish and customizable login and signup form designs 
 3. Copy the HTML and CSS code into your project's files, or integrate them directly into your web pages.
 4. Customize the forms as needed to match your website's design and functionality requirements.
 
+---
+
+## 🧑‍💻 Author
+
+**Wissem Benkhaled**
+
+💌 **Email:** [wissembenkhaled85@gmail.com](mailto:wissembenkhaled85@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/wissem-benkhaled](https://www.linkedin.com/in/wissem-benkhaled/)  
+🐙 **GitHub:** [github.com/Wissem-Benkhaled](https://github.com/Wissem-Benkhaled)  
+🌐 **Portfolio:** [wissembenkhaled.netlify.app](https://wissembenkhaled.netlify.app/)
+
+---
